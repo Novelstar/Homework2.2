@@ -1,0 +1,49 @@
+.container {
+  margin: auto;
+}
+.menu {
+  list-style: none;
+  padding: 0 auto;
+  margin: 0 auto;
+}
+.list_item {
+  display: inline;
+  width: 1200px;
+  margin-right: 50px;
+}
+.button {
+  color: grey;
+  width: 164px;
+  height: 60px;
+  margin: auto;
+  display: block;
+  font-family: 'Playfair Display', serif;
+}
+.link_menu {
+  display: inline-block;
+  text-decoration: none;
+  margin: 50px;
+  color: gray;
+  font-size: larger;
+  font-family: 'Playfair Display', serif;
+}
+.link_menu:hover {
+  color: blue;
+}
+.container {
+  margin: auto;
+  width: 1050px;
+}
+.paragraph {
+  display: inline-block;
+  width: 500px;
+  margin: 11px;
+  font-family: 'Playfair Display', serif;
+}
+p {
+  width: 418px;
+}
+
+li {
+  width: 418px;
+}
